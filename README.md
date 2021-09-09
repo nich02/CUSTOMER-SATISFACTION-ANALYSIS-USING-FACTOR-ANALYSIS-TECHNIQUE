@@ -1,4 +1,4 @@
-# CUSTOMER-SATISFACTION-ANALYSIS-USING
+# CUSTOMER-SATISFACTION-ANALYSIS
 
 For every business, it is desirable to understand the customer satisfaction level. Recently, Factor Analysis tecnique wich is a Multivariate Statistical technique has gained wide applications in various business related areas. The general purpose of this technique is to find a way of condensing the information contained in a number of original variables in a set of new composite factors with a minimum loss of information. 
 
